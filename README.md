@@ -1,5 +1,5 @@
-![silvercent011's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvercent011&show_icons=true&count_private=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercent011&layout=compact&theme=dark)](https://github.com/silvercent011/github-readme-stats)
+<!--![silvercent011's GitHub stats](https://github-readme-stats.vercel.app/api?username=silvercent011&show_icons=true&count_private=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silvercent011&layout=compact&theme=dark)](https://github.com/silvercent011/github-readme-stats)-->
 
 
 
@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### OLHA ESSAS MÉTRICAS BICHO
+<div style="display: inline_block">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvercent011&show_icons=true&count_private=true&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvercent011&layout=compact&theme=dark"/>
+</div>
 
  ### O QUE EU TENHO CERTEZA QUE SEI FAZER!
  
