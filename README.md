@@ -44,6 +44,7 @@ Here are some ideas to get you started:
  ### APRENDENDO...
 <div style="display: inline_block">
 <img align="center" alt="React.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="center" alt="Next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 
 </div>
 ##
